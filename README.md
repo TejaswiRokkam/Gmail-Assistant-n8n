@@ -4,6 +4,8 @@
 This project is an AI-powered email management workflow built using **n8n**, **OpenAI GPT-4.1-mini**, and **Gmail**.  
 It allows users to automatically send emails, create drafts, retrieve and reply to emails, label emails, and mark emails as unread—all through chat commands without manual effort.
 
+![EmailAgent Workflow](EmailAgentWorkflow.png)
+
 ## Features
 - Integrates OpenAI GPT to understand user instructions and generate professional email content in HTML.
 - Connects to Gmail to send, draft, reply, label, and manage emails.
@@ -29,7 +31,5 @@ It allows users to automatically send emails, create drafts, retrieve and reply 
 
 ## Demo
 Workflow execution can be tested by sending chat commands; emails will be created, sent, or managed automatically based on your instructions.
-
-![EmailAgent Workflow](EmailAgentWorkflow.png)
 
 
