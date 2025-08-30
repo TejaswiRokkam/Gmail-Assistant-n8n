@@ -15,9 +15,6 @@ It allows users to automatically send emails, create drafts, retrieve and reply 
 - **AI Node**: Processes chat input and decides which email action to perform.
 - **Gmail Nodes**: Execute actions such as sending emails, creating drafts, replying, labeling, and marking unread.
 
-## Files
-- `EmailAgent.json` – Exported n8n workflow file.
-
 ## How to Use
 1. Import the `EmailAgent.json` file into your n8n instance.  
 2. Configure your **OpenAI API credentials** in the AI node.  
@@ -32,3 +29,6 @@ It allows users to automatically send emails, create drafts, retrieve and reply 
 
 ## Demo
 Workflow execution can be tested by sending chat commands; emails will be created, sent, or managed automatically based on your instructions.
+
+![EmailAgent Workflow](images/EmailAgentWorkflow.png)
+
