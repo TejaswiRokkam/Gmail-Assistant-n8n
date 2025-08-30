@@ -30,5 +30,6 @@ It allows users to automatically send emails, create drafts, retrieve and reply 
 ## Demo
 Workflow execution can be tested by sending chat commands; emails will be created, sent, or managed automatically based on your instructions.
 
-![EmailAgent Workflow](images/EmailAgentWorkflow.png)
+![EmailAgent Workflow](EmailAgentWorkflow.png)
+
 
